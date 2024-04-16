@@ -8,12 +8,6 @@ This repository contains Terraform configurations for setting up an Azure Kubern
 - **Azure CLI**: You should be logged into the Azure CLI and have appropriate permissions.
 - **Azure Subscription**: An active subscription is required.
 
-## Directory Structure
-
-├── main.tf # Main Terraform configuration file.
-├── provider.tf # Provider and backend configuration.
-├── variables.tf # Variables declaration file.
-
 
 ## Configuration Details
 
