@@ -39,3 +39,9 @@ To deploy the AKS cluster:
    ```bash
    terraform init
 
+2. **Review the planned changes**:
+   ```bash
+   terraform plan
+3. Apply the configuration:
+   ```bash
+   terraform apply
